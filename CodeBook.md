@@ -1,7 +1,7 @@
 
 ## Course Project - Getting and Cleaning Data
 
-**dataframes from file **
+**dataframes from file**
 
 * test_sub   UCI HAR Dataset/test/subject_test.txt
 * test_x     UCI HAR Dataset/test/X_test.txt
